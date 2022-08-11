@@ -72,12 +72,13 @@ img {
     display: flex;
     flex-direction: row;
     margin-bottom: 50px;
+    margin-right: 10px;
 }
 
 .contactLinks {
     margin-top: 215px;
     padding-left: 350px;
-    margin-left: 100px;
+    margin-left: 80px;
     font-size: 20px;
 }
 
